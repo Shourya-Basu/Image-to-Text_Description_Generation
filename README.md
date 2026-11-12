@@ -62,7 +62,11 @@ description.
 
 ![Sample Image](Output/Output_5.png)
 
+## Project Demonstration
 
+[![Watch Project Demo](https://img.youtube.com/vi/0f6SnVhzlEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=0f6SnVhzlEM)
+
+**Click the thumbnail to watch the full project demonstration.**
 
 
 ------------------------------------------------------------------------
