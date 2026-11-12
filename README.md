@@ -70,7 +70,7 @@ models to generate descriptions.
 Replace the sample image path and caption placeholders below with your
 actual example files and outputs.
 
-![Sample Image](Images/Test%20Images/sample-image-1.jpg)
+
 
   Model        Generated Description
   ------------ ---------------------------------
