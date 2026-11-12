@@ -64,12 +64,9 @@ caption.
 
 ## Sample Output
 
-![Sample Image](Output/Screenshot 2026-11-11 182924.png)
+![Sample Image](Output/Output_5.png)
 
-| Model | Generated Caption |
-|---|---|
-| BLIP Base | A dog playing with a ball on the grass. |
-| BLIP Large | A black dog running on a grassy field. |
+
 
 
 ------------------------------------------------------------------------
