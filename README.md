@@ -51,7 +51,9 @@ human-written reference captions.
 The flowchart shows how an input image is processed to generate a
 description.
 
-<img src="Images/FlowChart.png" width="400">
+<p align="center">
+  <img src="./Images/FlowChart.png" alt="BLIP Flowchart" width="350">
+</p>
 
 
 ------------------------------------------------------------------------
