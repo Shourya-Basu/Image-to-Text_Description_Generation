@@ -79,13 +79,13 @@ caption.
 The models are evaluated using BLEU-1, BLEU-2, BLEU-4, METEOR, and
 ROUGE-L.
 
-  Metric      BLIP Base   BLIP Large
-  --------- ----------- ------------
-  BLEU-1          0.633        0.676
-  BLEU-2          0.503        0.520
-  BLEU-4          0.305        0.290
-  METEOR          0.424        0.528
-  ROUGE-L         0.538        0.539
+| Metric | BLIP Base | BLIP Large |
+|---|---:|---:|
+| BLEU-1 | 0.633 | 0.676 |
+| BLEU-2 | 0.503 | 0.520 |
+| BLEU-4 | 0.305 | 0.290 |
+| METEOR | 0.424 | 0.528 |
+| ROUGE-L | 0.538 | 0.539 |
 
 BLIP Large scores higher on four metrics, while BLIP Base scores higher
 on BLEU-4.
