@@ -51,7 +51,7 @@ human-written reference captions.
 The flowchart shows how an input image is processed to generate a
 description.
 
-![BLIP Flowchart](Images/FlowChart.png)
+![BLIP Flowchart](Images/FLowChart.png)
 
 ### BLIP Architecture
 
@@ -124,14 +124,9 @@ on BLEU-4.
     https://huggingface.co/Salesforce/blip-image-captioning-base
 -   **BLIP Large:**
     https://huggingface.co/Salesforce/blip-image-captioning-large
--   **Demo Video:** Add your video link.
--   **Project Report:** Add your report link.
+-   **Demo Video:** https://youtu.be/0f6SnVhzlEM
+-   **Project Report:** https://github.com/Shourya-Basu/Image-to-Text_Description_Generation
 
 ------------------------------------------------------------------------
 
-### References
 
--   [BLIP Research Paper](https://arxiv.org/abs/2201.12086)
--   [Salesforce BLIP GitHub
-    Repository](https://github.com/salesforce/BLIP)
--   [MS COCO Dataset](https://cocodataset.org/#download)
