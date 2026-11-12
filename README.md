@@ -62,20 +62,15 @@ caption.
 
 ------------------------------------------------------------------------
 
-### Sample Image and Generated Captions
+## Sample Output
 
-Images from the MS COCO validation dataset are passed through both
-models to generate descriptions.
+![Sample Image](Output/Screenshot 2026-11-11 182924.png)
 
-Replace the sample image path and caption placeholders below with your
-actual example files and outputs.
+| Model | Generated Caption |
+|---|---|
+| BLIP Base | A dog playing with a ball on the grass. |
+| BLIP Large | A black dog running on a grassy field. |
 
-
-
-  Model        Generated Description
-  ------------ ---------------------------------
-  BLIP Base    Add the generated caption here.
-  BLIP Large   Add the generated caption here.
 
 ------------------------------------------------------------------------
 
