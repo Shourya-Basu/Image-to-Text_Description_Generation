@@ -51,14 +51,8 @@ human-written reference captions.
 The flowchart shows how an input image is processed to generate a
 description.
 
-![BLIP Flowchart](Images/FLowChart.png)
+<img src="Images/FlowChart.png" width="400">
 
-### BLIP Architecture
-
-The architecture shows how BLIP extracts visual features and generates a
-caption.
-
-![BLIP Architecture](Images/BLIP%20ARC.webp)
 
 ------------------------------------------------------------------------
 
